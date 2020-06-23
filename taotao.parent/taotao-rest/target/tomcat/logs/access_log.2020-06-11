@@ -1,0 +1,8 @@
+127.0.0.1 - - [11/Jun/2020:19:58:09 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 47
+127.0.0.1 - - [11/Jun/2020:20:06:57 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 51
+127.0.0.1 - - [11/Jun/2020:20:07:20 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-2 2
+127.0.0.1 - - [11/Jun/2020:20:09:19 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 46
+127.0.0.1 - - [11/Jun/2020:20:12:18 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 40
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:20:16:29 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 41895 http-bio-8081-exec-3 1065
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:20:18:29 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 41895 http-bio-8081-exec-1 1000
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:20:22:00 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 30492 http-bio-8081-exec-1 927

@@ -1,0 +1,7 @@
+127.0.0.1 - - [22/Jun/2020:23:27:07 +0800] "GET /search/query?q=%E6%89%8B%E6%9C%BA&page=1 HTTP/1.1" 200 20977 http-bio-8083-exec-1 862
+127.0.0.1 - - [22/Jun/2020:23:27:14 +0800] "GET /search/query?q=iPhone&page=1 HTTP/1.1" 200 19938 http-bio-8083-exec-3 51
+127.0.0.1 - - [22/Jun/2020:23:27:22 +0800] "GET /search/query?q=iPhone11&page=1 HTTP/1.1" 200 22901 http-bio-8083-exec-5 45
+127.0.0.1 - - [22/Jun/2020:23:27:46 +0800] "GET /search/query?q=iphone11&page=1 HTTP/1.1" 200 22901 http-bio-8083-exec-7 36
+127.0.0.1 - - [22/Jun/2020:23:28:24 +0800] "GET /search/query?q=iphone11&page=1 HTTP/1.1" 200 22901 http-bio-8083-exec-9 33
+127.0.0.1 - - [22/Jun/2020:23:28:37 +0800] "GET /search/query?q=iphone11&page=1 HTTP/1.1" 200 22901 http-bio-8083-exec-1 29
+127.0.0.1 - - [22/Jun/2020:23:28:55 +0800] "GET /search/query?q=iphone11&page=1 HTTP/1.1" 200 22901 http-bio-8083-exec-3 30
